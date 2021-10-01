@@ -7,7 +7,8 @@
 		"spaghetti_noodles:hunger",
 		"spaghetti_noodles:bow_restriction",
 		"spaghetti_noodles:gigas_stone_hand",
-		"spaghetti_noodles:gigas_effect"
+		"spaghetti_noodles:gigas_effect",
+		"spaghetti_noodles:gigas_no_shield"
 	],
 	"icon": "minecraft:grass_block",
 	"order": 10,
